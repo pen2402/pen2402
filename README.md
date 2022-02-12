@@ -1,16 +1,23 @@
-### Hi there 👋
+<div style="text-align: center;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/notice1458-storage.appspot.com/o/Daily%20commit%20%26%20APS.svg?alt=media&token=531942e7-a8e5-4538-995a-389d7e4a1789" alt="Daily Commit & APS">
+    <br>
+    <br>
+    <br>
+    <h3>🔧 Tech Stack 🔨</h3>
+    <p>
+        <img src="http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff" alt="Python Badge">
+        <img src="http://img.shields.io/badge/-Dart-0175c2?style=flat-square&logo=Dart" alt="Dart Badge">
+    </p>
+    <p>
+        <img src="http://img.shields.io/badge/-Flutter-02569b?style=flat-square&logo=flutter" alt="Flutter Badge">
+    </p>
+    <p>
+    	<img src="http://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=000000" alt="Firebase Badge">
+    </p>
+    <br>
+    <h3>💡 Design 🎨</h3>
+    <p>
+    	<img src="http://img.shields.io/badge/-Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=ff61f6" alt="Adobe XD Badge">
+    </p>
+</div>
 
-<!--
-**pen2402/pen2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
