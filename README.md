@@ -12,6 +12,8 @@
   </p>
   <p>
       <img src="http://img.shields.io/badge/-Flutter-02569b?style=flat-square&logo=flutter" alt="Flutter Badge">
+      <img src="http://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django" alt="Django Badge">
+      <img src="http://img.shields.io/badge/-Vue.js-35495e?style=flat-square&logo=vuedotjs" alt="Vue.js Badge">
   </p>
   <p>
       <img src="http://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=000000" alt="Firebase Badge">
