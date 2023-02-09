@@ -28,4 +28,9 @@
     <img src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma Badge">
     <img src="https://img.shields.io/badge/-Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=ff61f6" alt="Adobe XD Badge">
   </p>
+  <br>
+  <h3>💻 Problem Solving 🔥</h3>
+  <a href="https://solved.ac/profile/pen2402" target="_blank">
+    <img src="https://bojbadge.web.app/api" alt="BOJ Badge">
+  </a>
 </div>
