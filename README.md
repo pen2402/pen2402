@@ -22,9 +22,4 @@
   <p>
     <img src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=000000" alt="Firebase Badge">
   </p>
-  <br>
-  <h3>💻 Problem Solving 🔥</h3>
-  <a href="https://solved.ac/profile/pen2402" target="_blank">
-    <img src="https://bojbadge.web.app/api" alt="BOJ Badge">
-  </a>
 </div>
